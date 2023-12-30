@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 3AFB-8EC9
+
+ Directory of C:\Users\HP\Desktop\gitProjectRepo
+
+30-12-2023  18:24    <DIR>          .
+30-12-2023  18:23    <DIR>          ..
+30-12-2023  18:24                 0 demo1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  182,370,164,736 bytes free
